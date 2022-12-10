@@ -6717,11 +6717,11 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     color: white !important;
 }
 
-input {
+.search-form {
     color: white !important;
 }
 
-input::placeholder {
+.search-form::placeholder {
     color: white !important;
 }
 
