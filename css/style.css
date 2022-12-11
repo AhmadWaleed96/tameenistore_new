@@ -5846,6 +5846,26 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     box-shadow: var(--ltn__box-shadow-1);
 }
 
+.ltn__header-options-3 .header-search-1,
+.ltn__header-options-3 .ltn__drop-menu>ul>li>a,
+.ltn__header-options-3 .mini-cart-icon a,
+.ltn__header-options-3 .header-wishlist {
+    height: 50px;
+    line-height: 50px;
+    background: var(--white);
+    color: var(--ltn__heading-color);
+    text-align: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding: 0 10px;
+    -webkit-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    -webkit-box-shadow: var(--ltn__box-shadow-1);
+    box-shadow: var(--ltn__box-shadow-1);
+}
+
 .ltn__header-options-2 .header-search-1:hover,
 .ltn__header-options-2 .ltn__drop-menu>ul>li>a:hover,
 .ltn__header-options-2 .mini-cart-icon a:hover,
@@ -6441,6 +6461,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     position: relative;
     padding-left: 20px;
     margin-left: 20px;
+    justify-content: flex-end;
 }
 
 .get-support::before {
@@ -17043,4 +17064,4 @@ input.cart-plus-minus-box {
 /*# sourceMappingURL=style.css.map */
 
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.css.map
