@@ -5340,7 +5340,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 
 .ltn__main-menu>ul>li>a {
     font-size: 16px;
-    padding: 20px 10px;
+    /* padding: 20px 10px; */
     display: inline-block;
     white-space: nowrap;
     color: var(--ltn__heading-color);
@@ -7028,7 +7028,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
         min-width: 180px;
     }
     .ltn__main-menu>ul>li>a {
-        padding: 20px 15px;
+        padding: 10px 10px;
     }
     .ltn__main-menu>ul>li {
         margin-right: 10px;
@@ -17027,10 +17027,20 @@ input.cart-plus-minus-box {
     }
 }
 
+.contactop1 {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    justify-content: flex-end;
+}
+
 
 /* ----------------------------------------------------
     END
 ---------------------------------------------------- */
+
+
+/*# sourceMappingURL=style.css.map */
 
 
 /*# sourceMappingURL=style.css.map */
