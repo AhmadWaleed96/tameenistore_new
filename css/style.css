@@ -17055,6 +17055,14 @@ input.cart-plus-minus-box {
     justify-content: flex-end;
 }
 
+.card-title {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
 
 /* ----------------------------------------------------
     END
